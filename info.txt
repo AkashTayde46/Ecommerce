@@ -1,0 +1,12 @@
+
+Important packages installed
+bcryptjs - to hide user password in mongodb compass
+jsonwebtoken - 
+validator - to validate email email field should have email only
+nodemailer - to reset password when user forgets password
+cookie-parser - to store jsonwebtoken in the form of cookies
+packages installed in frontend directory
+1. npx create-react-app .
+2. npm start
+3. npm i axios react-alert-template-basic react-helmet react-redux redux redux-thunk redux-devtools-extension react-router-dom overlay-navbar// axios to fetch data from backend react-helmet to keep the title of each page differnt
+redux: redux is like a store which stores all required information and any componenet can access the information from that store
